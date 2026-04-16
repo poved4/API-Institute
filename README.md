@@ -20,7 +20,7 @@ Puedes ajustar las variables de conexión, credenciales y puertos en el archivo 
 
 | Variable | Descripción | Valor por Defecto |
 | :--- | :--- | :--- |
-| `PORT` | Puerto en el que corre la aplicación Spring Boot | `8080` |
+| `PORT` | Puerto en el que corre la aplicación Spring Boot | `1234` |
 | `LOGGING_LEVEL` | Nivel de detalle de los logs (debug, info, warn, error) | `info` |
 | `MYSQL_HOST` | Dirección del servidor de base de datos (nombre del servicio en Docker) | `localhost` |
 | `MYSQL_PORT` | Puerto de conexión a la base de datos MySQL | `3306` |
