@@ -3,7 +3,7 @@ package com.juan.poveda.subjects.models.entities;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.juan.poveda.grades.models.entity.Grade;
+import com.juan.poveda.grades.models.entities.Grade;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
